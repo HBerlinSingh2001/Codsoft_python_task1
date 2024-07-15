@@ -1,0 +1,14 @@
+[
+    {
+        "title": "landing page",
+        "is_done": false
+    },
+    {
+        "title": "calculator",
+        "is_done": true
+    },
+    {
+        "title": "to-do list",
+        "is_done": true
+    }
+]
